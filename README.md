@@ -124,8 +124,8 @@ void loop() {
 
 ## License
 
-This project is released under the **MIT License** --- free for personal
-and commercial use.
+This project is licensed under the **GNU General Public License v2.0
+(GPL-2.0)**.
 
 ------------------------------------------------------------------------
 
